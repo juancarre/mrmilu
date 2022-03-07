@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a98b0d9-b512-4d65-9e81-a45de9c94947" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../api/config/api_platform/resources/Group.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../api/config/api_platform/resources/Group.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/config/packages/messenger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../api/config/packages/messenger.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/Messenger/RoutingKey.php" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/Messenger/RoutingKey.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/Repository/BaseRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/Repository/BaseRepository.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zaOdGaMKz6e5DInvHX9vlU6doF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a98b0d9-b512-4d65-9e81-a45de9c94947" name="Default Changelist" comment="" />
+      <created>1634382817387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634382817387</updated>
+      <workItem from="1634382819180" duration="1583000" />
+      <workItem from="1634396066629" duration="196000" />
+      <workItem from="1634396284122" duration="178000" />
+      <workItem from="1634396481662" duration="4761000" />
+      <workItem from="1634550826233" duration="274000" />
+      <workItem from="1634657230549" duration="860000" />
+      <workItem from="1634717474413" duration="581000" />
+      <workItem from="1634832779617" duration="511000" />
+      <workItem from="1637063186687" duration="224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="149" y="48" key="SettingsEditor" timestamp="1634396263316">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="149" y="48" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1634396263316" />
+    <state x="317" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1634396482576">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="317" y="241" key="com.intellij.ide.util.TipDialog/0.25.1280.775@0.25.1280.775" timestamp="1634396482576" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+App\Entity\User:
+  attributes:
+    id:
+      groups: [user_read]
+    name:
+      groups: [user_read, user_register, user_update, movement_read]
+    email:
+      groups: [user_read, user_register]
+    password:
+      groups: [user_register]
+    avatar:
+      groups: [user_read, movement_read]
+    active:
+      groups: [user_read]
+    token:
+      groups: [user_activate]
+    companyName:
+      groups: [user_read, user_register, user_update]
+    phoneNumber:
+      groups: [user_read, user_register, user_update]
+    companyWeb:
+      groups: [user_read, user_register, user_update]
+    userType:
+      groups: [user_read, user_register, user_update]
+    createdAt:
+      groups: [user_read]
+    updatedAt:
+      groups: [user_read]
+    groups:
+      groups: [user_read]
+    categories:
+      groups: [user_read]
+    movements:
+      groups: [user_read]
+    contactRequests:
+      groups: [user_read]
